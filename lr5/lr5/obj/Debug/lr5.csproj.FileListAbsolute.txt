@@ -1,0 +1,10 @@
+G:\5 курс\Бердюгин\lr5\lr5\bin\Debug\lr5.exe.config
+G:\5 курс\Бердюгин\lr5\lr5\bin\Debug\lr5.exe
+G:\5 курс\Бердюгин\lr5\lr5\bin\Debug\lr5.pdb
+G:\5 курс\Бердюгин\lr5\lr5\obj\Debug\lr5.csproj.AssemblyReference.cache
+G:\5 курс\Бердюгин\lr5\lr5\obj\Debug\lr5.Form2.resources
+G:\5 курс\Бердюгин\lr5\lr5\obj\Debug\lr5.Properties.Resources.resources
+G:\5 курс\Бердюгин\lr5\lr5\obj\Debug\lr5.csproj.GenerateResource.cache
+G:\5 курс\Бердюгин\lr5\lr5\obj\Debug\lr5.csproj.CoreCompileInputs.cache
+G:\5 курс\Бердюгин\lr5\lr5\obj\Debug\lr5.exe
+G:\5 курс\Бердюгин\lr5\lr5\obj\Debug\lr5.pdb
